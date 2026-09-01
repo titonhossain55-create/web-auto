@@ -1,0 +1,6 @@
+{
+  "name": "ApexAuto - Car Accessories & Parts Store",
+  "description": "Comprehensive car accessories e-commerce store with online card & COD payments, real-time order tracking, admin inventory & sales analytics, live support chat, multi-language, dark mode, and offline cloud sync.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
